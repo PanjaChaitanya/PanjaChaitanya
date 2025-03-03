@@ -45,13 +45,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanjaChaitanya&show_icons=true&theme=tokyonight" width="48%" />
   
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
+  
 </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panjachaitanya&layout=compact)
 
 ---
 
