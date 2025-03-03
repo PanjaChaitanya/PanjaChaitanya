@@ -44,11 +44,14 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  
-</p>
-<p align="center">
-  
+
+<p>
+  <span align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=PanjaChaitanya&show_icons=true&theme=tokyonight" width="48%" />
+  </span>
+  <span align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
+  </span>
 </p>
 
 ---
