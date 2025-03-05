@@ -48,8 +48,6 @@
 ## 📊 GitHub Stats
 
 <p>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PanjaChaitanya)](https://git.io/streak-stats)
   <span align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=PanjaChaitanya&show_icons=true&theme=tokyonight" width="48%" />
   </span>
@@ -57,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
   </span>
   <span align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=PanjaChaitanya" alt="GitHub Streak" />
+   <img src="https://nirzak-streak-stats.vercel.app/?user=PanjaChaitanya&theme=lightrk&hide_border=false" alt="GitHub Streak" />
   </span>
 </p>
 
