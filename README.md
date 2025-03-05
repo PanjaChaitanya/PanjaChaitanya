@@ -54,6 +54,9 @@
   <span align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
   </span>
+  <span align="center">
+    ![](https://nirzak-streak-stats.vercel.app/?user=PanjaChaitanya&theme=dark&hide_border=false)<br/>
+  </span>
 </p>
 
 ---
