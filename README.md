@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
   </span>
   <span align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PanjaChaitanya" alt="GitHub Streak" /></a>
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=PanjaChaitanya" alt="GitHub Streak" />
   </span>
 </p>
 
