@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
   </span>
   <span align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=PanjaChaitanya&theme=dark&hide_border=false" width="50%" />
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PanjaChaitanya" alt="GitHub Streak" /></a>
   </span>
 </p>
 
