@@ -48,14 +48,10 @@
 ## 📊 GitHub Stats
 
 <p>
-  <span align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=PanjaChaitanya&show_icons=true&theme=tokyonight" width="48%" />
-  </span>
   <span align="right">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanjaChaitanya&layout=compact&theme=tokyonight" width="48%" />
   </span>
   <span align="center">
-   <img src="https://nirzak-streak-stats.vercel.app/?user=PanjaChaitanya&theme=lightrk&hide_border=false" alt="GitHub Streak" />
   </span>
 </p>
 
