@@ -60,8 +60,6 @@
 
 ## 🏆 Achievements
 - ✅ Completed **Responsive Web Design Certification** (freeCodeCamp, HackerRank)
-- 🎓 Certified in **Basic SQL** (HackerRank)
-- 🏅 30-Day **Java Full Stack Masterclass**
 
 ---
 
