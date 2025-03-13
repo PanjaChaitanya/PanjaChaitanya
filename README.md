@@ -2,7 +2,7 @@
 
 # 🚀 Chaitanya Panja | Web Developer
 
-### "Turning ideas into interactive experiences, one line of code at a time."
+### "Turning ideas into interactive experiences"
 
 ---
 
