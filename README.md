@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
-# 🚀 Chaitanya Panja | Web Developer
+#  Chaitanya Panja | Web Developer
 
 ### "Turning ideas into interactive experiences"
 
