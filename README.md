@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 - 🔭 Currently working on **[FitPool](https://fitpool.netlify.app)**
 - 🌱 Learning **React.js & Node.js**
-- 💡 Practicing projects on **[My Portfolio](https://chaitanyapanja.vercel.app)**
+- 💡 Some Practiced projects on **[My Portfolio](https://chaitanyapanja.vercel.app)**
 - 💬 Ask me about **JavaScript, React, Web Development**
 - 📫 Reach me at **panjachaitanya23@gmail.com**
 
