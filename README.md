@@ -58,14 +58,4 @@
 
 ---
 
-## 🏆 Achievements
-- ✅ Completed **Responsive Web Design Certification** (freeCodeCamp, HackerRank)
-
----
-
-## 🎯 Fun Fact
-💡 "Debugging is like being the detective in a crime movie where **you are also the murderer**." 😆
-
----
-
 ✨ **Let's build something amazing together!** 🚀
