@@ -11,9 +11,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=PanjaChaitanya&color=blue)
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **[SSV Homecare Services](https://srisiddhivinayakahomecareservices.vercel.app/)**
-- 🌱 Learning **React.js & Node.js**
-- 💡 Some Practiced projects on **[My Portfolio](https://chaitanyapanja.vercel.app)**
+- 🔭 Currently working on **Thinking**
+- 🌱 Learning **Don't know**
+- 💡 Some projects on **[My Portfolio](https://chaitanyapanja.vercel.app)**
 - 💬 Ask me about **JavaScript, React, Web Development**
 - 📫 Reach me at **panjachaitanya23@gmail.com**
 
